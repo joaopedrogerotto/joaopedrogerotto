@@ -49,8 +49,4 @@ Atualmente atuo no **Back-End com C#, .NET e SQL Server**, criando e mantendo AP
 
 <p>
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrogerotto&theme=tokyonight&locale=pt_BR" />
-</p>
-
-## 📫 Vamos conversar?
-
-Estou sempre aberto a trocar ideias sobre .NET, React e desenvolvimento de software. Me chama no [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN) ou por [e-mail](mailto:SEU_EMAIL).
+</p
